@@ -1,4 +1,4 @@
-﻿# Caf-Billing-System
+﻿# Café-Billing-System
 # RR's Cafe Ordering System
 
 ## Overview
